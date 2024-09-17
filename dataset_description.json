@@ -1,0 +1,9 @@
+{
+    "Name": "Cued Recall of Paired Associates with Open-Loop Stimulation at Encoding or Retrieval",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
